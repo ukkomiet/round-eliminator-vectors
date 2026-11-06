@@ -1,0 +1,5 @@
+{
+    "alphabet": ["h", "t"],
+    "node_constraint": [["t", "t", "t"], ["t", "t", "h"], ["t", "h", "h"]],
+    "edge_constraint": [["h", "t"]]
+}
